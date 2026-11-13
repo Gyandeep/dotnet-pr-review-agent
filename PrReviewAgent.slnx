@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PrReviewAgent.Cli/PrReviewAgent.Cli.csproj" />
+    <Project Path="src/PrReviewAgent.Core/PrReviewAgent.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/PrReviewAgent.Tests/PrReviewAgent.Tests.csproj" />
+  </Folder>
+</Solution>
